@@ -41,7 +41,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     width: 784px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(base-disconnect.svgz);
+    background: url(disconnected.svgz);
 }
 /* This hides the controller's button when disconnected so only the background image remains */
 .custom.disconnected div {
@@ -75,7 +75,7 @@ placement */
 .custom .bumper{
     width: 89px;
     height: 28px;
-    background: url(bumpers.svgz);
+    background: url(bumper.svgz);
     opacity: 0;
 }
 .custom .bumpers{
@@ -105,12 +105,14 @@ quandrants on the xbox controller. That's note what it's called on the
 PS3 controller but it'd be pointless for me to change the HTML for 
 something as pedantic as a name. */
 .custom .quadrant{
-    position: absolute;
+/*    position: absolute;
     background: url(player-n.svgz);
     height: 17px;
     width: 111px;
     top: 140px;
     left: 240px;
+
+ */
 }
 /* Since the player indicator is just a CSS sprite, we change the 
 position of the background to match the player number.
@@ -138,7 +140,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(menus.svgz);
+    background: url(start.svgz);
     width: 34px;
     height: 19px;
 }
@@ -168,7 +170,7 @@ start and select buttons. */
     position: absolute;
     width:62px;
     height:62px;
-    background: url(face-buttons.svgz);
+    background: url(face.svgz);
 }
 .custom .button.pressed{
     background-position-y: -64px;
@@ -204,7 +206,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(thumbs.svgz);
+    background: url(sticks.svgz);
     height:105px;
     width: 105px;
 }
