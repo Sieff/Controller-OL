@@ -74,6 +74,7 @@
     position: absolute;
     left: 271px;
     top: 122px;
+    background: url(cplay_assets/cplay-touchpad-rot.png) no-repeat center;
 }
 
 .custom .touchpad.pressed {
