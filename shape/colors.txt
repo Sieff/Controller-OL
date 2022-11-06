@@ -1,0 +1,12 @@
+shape normal F19233
+shape dark DB6423
+shape alternate DB9723
+
+dark shape normal 181818
+dark shape dark 0b0b0b
+dark shape medium light 333333
+dark shape light 636363
+
+40e2a0
+f7f7f7 shapw white
+dddddd shape gray
