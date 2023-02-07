@@ -93,6 +93,15 @@
     background: url(nani_assets/touchpad.svg) no-repeat center;
 }
 
+.custom .touchpad.pressed::after {
+    content: "";
+    width: 80%;
+    height: 80%;
+    background: url(nani_purple.webp) no-repeat center;
+    display: block;
+    background-size: contain;
+}
+
 .custom .meta {
     width: 42px;
     height: 42px;
