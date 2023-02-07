@@ -1,0 +1,16 @@
+Accent colors:
+	normal 8858ed
+	dark 55496E
+	more dark 512BA1
+	alternate A378FF
+
+Base Colors:
+	dark normal 181818
+	dark dark 0b0b0b
+	dark medium light 333333
+	dark light 636363
+
+Light Colors:
+	teal 40e2a0
+	white f7f7f7
+	gray dddddd
