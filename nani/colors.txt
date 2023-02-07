@@ -1,7 +1,6 @@
 Accent colors:
 	normal 8858ed
-	dark 55496E
-	more dark 512BA1
+	dark 512BA1
 	alternate A378FF
 
 Base Colors:
