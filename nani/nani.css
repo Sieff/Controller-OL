@@ -76,6 +76,10 @@
     top: 122px;
 }
 
+.custom .touchpad::after {
+    background: url(nani.webp) no-repeat center;
+}
+
 .custom .touchpad.pressed {
     background: url(nani_assets/touchpad.svg) no-repeat center;
 }
